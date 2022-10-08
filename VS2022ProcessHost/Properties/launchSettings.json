@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "VS2022ProcessHost": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TemperamentalConsole": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_STARTUP_HOOKS": "C:\\Utils\\VS2022ProcessHost.dll"
+      }
+    }
+  }
+}
